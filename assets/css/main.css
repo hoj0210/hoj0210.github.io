@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+.dev-i{
+	display: inline-block;
+		transform: rotate(45deg);
+		-webkit-transform: rotate(45deg);
+		font-size: 60px;
+		margin-top: 5px;
+}
 /* Basic */
 
 	@-ms-viewport {

@@ -79,7 +79,12 @@ input, select, textarea {
 		font-size: 65px;
 		margin-top: 10px;
 }
-
+#project-header{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 0;
+	background-color: #292F35;
+}
 .javascript{
 	font-size: 57px;
 	margin-top: 17px;
@@ -87,6 +92,9 @@ input, select, textarea {
 .dev-i-text{
 	font-size: 10px;
 	font-family: "Open Sans", Helvetica, sans-serif;
+}
+.project-title{
+	margin-top: 100px;
 }
 /* Basic */
 

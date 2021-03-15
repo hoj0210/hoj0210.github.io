@@ -79,6 +79,7 @@ input, select, textarea {
 		font-size: 65px;
 		margin-top: 10px;
 }
+
 .javascript{
 	font-size: 57px;
 	margin-top: 17px;
@@ -2832,7 +2833,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: lightslategray;
+			background-color:rgb(65, 65, 65);
 			color: #c8ece9;
 		}
 

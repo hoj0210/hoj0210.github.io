@@ -79,7 +79,10 @@ input, select, textarea {
 		font-size: 65px;
 		margin-top: 10px;
 }
-
+.javascript{
+	font-size: 57px;
+	margin-top: 17px;
+}
 .dev-i-text{
 	font-size: 10px;
 	font-family: "Open Sans", Helvetica, sans-serif;
@@ -2829,7 +2832,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: lightslategray;
 			color: #c8ece9;
 		}
 

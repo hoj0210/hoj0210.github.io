@@ -85,6 +85,10 @@ input, select, textarea {
 	margin-bottom: 0;
 	background-color: #292F35;
 }
+.image-gif{
+	width: 665px;
+	height: 350px;
+}
 .javascript{
 	font-size: 57px;
 	margin-top: 17px;
@@ -2701,7 +2705,7 @@ input, select, textarea {
 			-ms-order: 1;
 			order: 1;
 			border-radius: 0;
-			width: 40%;
+			width: 54%;
 		}
 
 			.spotlight .image img {

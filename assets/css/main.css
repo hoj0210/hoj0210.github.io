@@ -218,15 +218,16 @@ input, select, textarea {
 	margin-top: 30px;
 }
 
-.inner{
+.inner-banner{
 	display: flex;
 	justify-content: center;
 }
 
 .profile-pic{
-	width: 220px;
-	height: 220px;
+	width: 310px;
+	height: 310px;
 	border-radius: 10px;
+	/* margin-right: -50px; */
 }
 /* Basic */
 
@@ -3788,6 +3789,9 @@ input, select, textarea {
 		#banner p {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
+			text-align: left;
+			position: relative;
+			left: 100px;
 		}
 
 			#banner p a {

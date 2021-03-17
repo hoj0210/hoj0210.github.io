@@ -217,6 +217,17 @@ input, select, textarea {
 .p-italics{
 	margin-top: 30px;
 }
+
+.inner{
+	display: flex;
+	justify-content: center;
+}
+
+.profile-pic{
+	width: 220px;
+	height: 220px;
+	border-radius: 10px;
+}
 /* Basic */
 
 	@-ms-viewport {

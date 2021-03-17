@@ -82,27 +82,27 @@
 
 })(jQuery);
 
-const welp = document.getElementById("welp-main")
-const fit = document.getElementById("fit-main")
-const space = document.getElementById("space-main")
+// const welp = document.getElementById("welp-main")
+// const fit = document.getElementById("fit-main")
+// const space = document.getElementById("space-main")
 
-welp.addEventListener('mouseenter', () => {
-	document.getElementById("welp-modal").style.display = "flex"
-})
-welp.addEventListener('mouseleave', () => {
-	document.getElementById("welp-modal").style.display = "none"
-})
+// welp.addEventListener('mouseenter', () => {
+// 	document.getElementById("welp-modal").style.display = "flex"
+// })
+// welp.addEventListener('mouseleave', () => {
+// 	document.getElementById("welp-modal").style.display = "none"
+// })
 
-fit.addEventListener('mouseenter', () => {
-	document.getElementById("fit-modal").style.display = "flex"
-})
-fit.addEventListener('mouseleave', () => {
-	document.getElementById("fit-modal").style.display = "none"
-})
+// fit.addEventListener('mouseenter', () => {
+// 	document.getElementById("fit-modal").style.display = "flex"
+// })
+// fit.addEventListener('mouseleave', () => {
+// 	document.getElementById("fit-modal").style.display = "none"
+// })
 
-space.addEventListener('mouseenter', () => {
-	document.getElementById("space-modal").style.display = "flex"
-})
-space.addEventListener('mouseleave', () => {
-	document.getElementById("space-modal").style.display = "none"
-})
+// space.addEventListener('mouseenter', () => {
+// 	document.getElementById("space-modal").style.display = "flex"
+// })
+// space.addEventListener('mouseleave', () => {
+// 	document.getElementById("space-modal").style.display = "none"
+// })

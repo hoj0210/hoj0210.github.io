@@ -100,7 +100,7 @@ input, select, textarea {
 }
 .image-gif{
 	width: 665px;
-	height: 350px;
+	height: 380px;
 }
 .javascript{
 	font-size: 57px;
@@ -212,6 +212,10 @@ input, select, textarea {
 
 #space-modal a:last-child{
 	padding-right: 24px;
+}
+
+.p-italics{
+	margin-top: 30px;
 }
 /* Basic */
 

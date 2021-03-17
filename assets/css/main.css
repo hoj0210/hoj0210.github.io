@@ -85,6 +85,19 @@ input, select, textarea {
 	margin-bottom: 0;
 	background-color: #292F35;
 }
+#webpack-cube{
+	position: relative;
+	top: 22px;
+}
+
+#webpack-icon{
+	font-size: 88px;
+}
+
+.link-box{
+	position: relative;
+	top: 117px;
+}
 .image-gif{
 	width: 665px;
 	height: 350px;
@@ -115,7 +128,17 @@ input, select, textarea {
 #welp-modal a{
 	text-decoration: none;
 	border-bottom: none;
+	font-size: 35px;
+	background:rgba(66, 75, 84, 0.85);
+	border-radius: 5px;
+	padding: 12px;
+	cursor: pointer;
+	width: 60px;
+	margin: 20px;
+}
 
+#welp-modal a:hover{
+	background: lightsalmon;
 }
 #fit-modal{
 	position: absolute;
@@ -127,6 +150,22 @@ input, select, textarea {
 	flex-direction: column;
 	transition: 0.4s;
 }
+
+#fit-modal a{
+	text-decoration: none;
+	border-bottom: none;
+	font-size: 35px;
+	background:rgba(66, 75, 84, 0.85);
+	border-radius: 5px;
+	padding: 12px;
+	cursor: pointer;
+	width: 60px;
+	margin: 20px;
+}
+#fit-modal a:hover{
+	background: lightsalmon;
+}
+
 #space-modal{
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
@@ -136,6 +175,22 @@ input, select, textarea {
 	text-align: center;
 	flex-direction: column;
 	transition: 0.4s;
+}
+
+#space-modal a{
+	text-decoration: none;
+	border-bottom: none;
+	font-size: 35px;
+	background:rgba(66, 75, 84, 0.85);
+	border-radius: 5px;
+	padding: 12px;
+	cursor: pointer;
+	width: 60px;
+	margin: 20px;
+}
+
+#space-modal a:hover{
+	background: lightsalmon;
 }
 /* Basic */
 

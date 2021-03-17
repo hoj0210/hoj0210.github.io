@@ -101,9 +101,8 @@ input, select, textarea {
 	margin-top: 100px;
 }
 
-.welp-modal{
-	outline: none;
-	text-decoration: none;
+.h{
+	display: none;
 }
 /* Basic */
 

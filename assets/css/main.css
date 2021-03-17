@@ -113,7 +113,12 @@ input, select, textarea {
 .project-title{
 	margin-top: 100px;
 }
-
+.content a{
+	border-bottom: none;
+}
+.content a:hover{
+	text-decoration: underline;
+}
 #welp-modal{
 	display: none;
 	position: absolute;

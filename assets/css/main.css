@@ -115,6 +115,7 @@ input, select, textarea {
 }
 
 #welp-modal{
+	display: none;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
 	width:100%;
@@ -136,11 +137,18 @@ input, select, textarea {
 	width: 60px;
 	margin: 20px;
 }
-
+#welp-modal i{
+	position: relative;
+	left: 6px;
+}
 #welp-modal a:hover{
 	background: lightsalmon;
 }
+#welp-modal a:last-child{
+	padding-right: 24px;
+}
 #fit-modal{
+	display: none;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
 	width:100%;
@@ -150,7 +158,10 @@ input, select, textarea {
 	flex-direction: column;
 	transition: 0.4s;
 }
-
+#fit-modal i{
+	position: relative;
+	left: 6px;
+}
 #fit-modal a{
 	text-decoration: none;
 	border-bottom: none;
@@ -165,8 +176,11 @@ input, select, textarea {
 #fit-modal a:hover{
 	background: lightsalmon;
 }
-
+#fit-modal a:last-child{
+	padding-right: 24px;
+}
 #space-modal{
+	display: none;
 	position: absolute;
 	background:  rgba(0, 0, 0, 0.6);
 	width:100%;
@@ -176,7 +190,10 @@ input, select, textarea {
 	flex-direction: column;
 	transition: 0.4s;
 }
-
+#space-modal i{
+	position: relative;
+	left: 6px;
+}
 #space-modal a{
 	text-decoration: none;
 	border-bottom: none;
@@ -191,6 +208,10 @@ input, select, textarea {
 
 #space-modal a:hover{
 	background: lightsalmon;
+}
+
+#space-modal a:last-child{
+	padding-right: 24px;
 }
 /* Basic */
 

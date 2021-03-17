@@ -234,6 +234,20 @@ input, select, textarea {
 	border-radius: 10px;
 	margin-right: -50px;
 }
+
+#links{
+	margin-top: 60px;
+}
+
+.contact-me{
+	display: flex;
+	justify-content: center;
+	font-size: 25px;
+}
+
+.contact-me p:first-child{
+	margin-right: 60px;
+}
 /* Basic */
 
 	@-ms-viewport {
@@ -3514,7 +3528,7 @@ input, select, textarea {
 		-ms-transition: -ms-transform 0.5s ease;
 		transition: transform 0.5s ease;
 		-webkit-overflow-scrolling: touch;
-		background: #21b2a6;
+		background: green;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;

@@ -227,6 +227,7 @@ input, select, textarea {
 .inner-banner{
 	display: flex;
 	justify-content: center;
+	flex-wrap: wrap;
 }
 
 .profile-pic{
@@ -234,6 +235,7 @@ input, select, textarea {
 	height: 310px;
 	border-radius: 10px;
 	margin-right: -50px;
+	margin-bottom: 30px;
 }
 
 #links{

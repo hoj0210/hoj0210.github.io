@@ -78,6 +78,7 @@ input, select, textarea {
 		-webkit-transform: rotate(45deg);
 		font-size: 65px;
 		margin-top: 10px;
+		margin-left: 10px;
 }
 #project-header{
 	display: flex;

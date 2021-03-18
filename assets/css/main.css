@@ -238,7 +238,11 @@ input, select, textarea {
 #links{
 	margin-top: 60px;
 }
-
+.about-me{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
 .contact-me{
 	display: flex;
 	justify-content: center;

@@ -229,7 +229,9 @@ input, select, textarea {
 	justify-content: center;
 	flex-wrap: wrap;
 }
-
+.inner-banner > * {
+	max-width: 350px;
+}
 .profile-pic{
 	width: 310px;
 	height: 310px;
@@ -3816,8 +3818,6 @@ input, select, textarea {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			text-align: left;
-			position: relative;
-			left: 100px;
 		}
 
 			#banner p a {

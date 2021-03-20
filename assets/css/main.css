@@ -228,6 +228,7 @@ input, select, textarea {
 	display: flex;
 	justify-content: center;
 	flex-wrap: wrap;
+	
 }
 .inner-banner > * {
 	max-width: 350px;
@@ -236,7 +237,7 @@ input, select, textarea {
 	width: 310px;
 	height: 310px;
 	border-radius: 10px;
-	margin-right: -50px;
+	margin-right: 50px;
 	margin-bottom: 30px;
 }
 
@@ -3818,6 +3819,7 @@ input, select, textarea {
 			letter-spacing: 0.225em;
 			text-transform: uppercase;
 			text-align: left;
+			padding-left: 10px;
 		}
 
 			#banner p a {

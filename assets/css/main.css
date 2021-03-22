@@ -137,7 +137,7 @@ input, select, textarea {
 	border-bottom: none;
 	font-size: 35px;
 	background:rgba(66, 75, 84, 0.85);
-	border-radius: 5px;
+	border-radius: 33px;
 	padding: 12px;
 	cursor: pointer;
 	width: 60px;
@@ -173,7 +173,7 @@ input, select, textarea {
 	border-bottom: none;
 	font-size: 35px;
 	background:rgba(66, 75, 84, 0.85);
-	border-radius: 5px;
+	border-radius: 33px;
 	padding: 12px;
 	cursor: pointer;
 	width: 60px;
@@ -205,7 +205,7 @@ input, select, textarea {
 	border-bottom: none;
 	font-size: 35px;
 	background:rgba(66, 75, 84, 0.85);
-	border-radius: 5px;
+	border-radius: 33px;
 	padding: 12px;
 	cursor: pointer;
 	width: 60px;

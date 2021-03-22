@@ -233,6 +233,11 @@ input, select, textarea {
 .inner-banner > * {
 	max-width: 350px;
 }
+
+.about-resume{
+	display: flex;
+	justify-content: center;
+}
 .profile-pic{
 	width: 310px;
 	height: 310px;
@@ -240,7 +245,11 @@ input, select, textarea {
 	margin-right: 50px;
 	margin-bottom: 30px;
 }
-
+#about-header{
+	display: flex;
+	justify-content: center;
+	padding-top: 0;
+}
 #links{
 	margin-top: 60px;
 }

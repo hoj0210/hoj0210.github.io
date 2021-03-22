@@ -148,7 +148,7 @@ input, select, textarea {
 	left: 6px;
 }
 #welp-modal a:hover{
-	background: lightsalmon;
+	background: green;
 }
 #welp-modal a:last-child{
 	padding-right: 24px;
@@ -180,7 +180,7 @@ input, select, textarea {
 	margin: 20px;
 }
 #fit-modal a:hover{
-	background: lightsalmon;
+	background: green;
 }
 #fit-modal a:last-child{
 	padding-right: 24px;
@@ -213,7 +213,7 @@ input, select, textarea {
 }
 
 #space-modal a:hover{
-	background: lightsalmon;
+	background: green;
 }
 
 #space-modal a:last-child{

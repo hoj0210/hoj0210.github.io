@@ -222,9 +222,6 @@ input, select, textarea {
 	flex-wrap: wrap;
 	
 }
-.inner-banner > * {
-	max-width: 350px;
-}
 
 .about-resume{
 	display: flex;

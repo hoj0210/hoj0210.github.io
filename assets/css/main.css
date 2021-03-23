@@ -86,14 +86,6 @@ input, select, textarea {
 	margin-bottom: 0;
 	background-color: #292F35;
 }
-#webpack-cube{
-	position: relative;
-	top: 22px;
-}
-
-#webpack-icon{
-	font-size: 88px;
-}
 
 .link-box{
 	position: relative;

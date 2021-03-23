@@ -2267,14 +2267,6 @@ input, select, textarea {
 				font-size: 1.5em;
 			}
 
-			@media screen and (max-width: 736px) {
-
-				.icon.major {
-					font-size: 1em;
-				}
-
-			}
-
 		.icon.style1 {
 			color: #00ffcc;
 		}
